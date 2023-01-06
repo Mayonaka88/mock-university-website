@@ -6,5 +6,3 @@
 > Run the Main.html to start.
 
 > The repository is very unorganized since it was one of my first proper projects and I havent yet learned how to organize my files properly.
-
-> Enjoy :)
